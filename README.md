@@ -15,9 +15,9 @@
         <td>Youtube</td>
     </tr>
 </table>
->
-> Creador de contenido. visita mi canal de you tube donde encontrars tutoriales y recursos para tus proyectos o aprendisaje
->
+<ul>
+    <li>Creador de contenido. visita mi canal de you tube donde encontrars tutoriales y recursos para tus proyectos o aprendisaje</li>
+</ul>
 <h1>Skills</h1>
 <p>Diseñador de paginas web, programacion de pagina front-end, con total conocimiento de las siguientes tecnologias</p>
 <table>

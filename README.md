@@ -1,6 +1,6 @@
-<h1>Apock graficos</h1>
-<h5><strong>Diseñador y desarrollador front-end</strong></h5>
-<h3>Redes sociales. 😁 quien dijo miedo. ¡Sigueme!</h3>
+<h1>Apock gráficos</h1>
+<h5><strong>Diseñador y des arrollador front-end</strong></h5>
+<h3>Redes sociales. 😁 quien dijo miedo. ¡Sígueme!</h3>
 <table>
     <tr>
         <td><a target="_blank" href="https://www.facebook.com/ApockGraficos"><img src="icons/facebook2.svg" alt="" width="40"></a></td>
@@ -16,10 +16,10 @@
     </tr>
 </table>
 <ul>
-    <li>Creador de contenido. visita mi canal de you tube donde encontrars tutoriales y recursos para tus proyectos o aprendisaje</li>
+    <li>Creador de contenido. visita mi canal de youtube donde encontraras tutoriales y recursos para tus proyectos o aprendizaje</li>
 </ul>
 <h1>Skills</h1>
-<p>Diseñador de paginas web, programacion de pagina front-end, con total conocimiento de las siguientes tecnologias</p>
+<p>Diseñador de paginas web, programación de pagina front-end, con total conocimiento de las siguientes tecnologías</p>
 <table>
     <tr>
         <td>html</td>

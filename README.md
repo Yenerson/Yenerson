@@ -1,6 +1,6 @@
 <img src="img/ezgif.com-gif-maker.png" width="100%">
 <h1>Apock gráficos</h1>
-<h4><strong>Diseñador y des arrollador front-end</strong></h4>
+<h4><strong>Diseñador y desarrollador front-end</strong></h4>
 <h3>Redes sociales. 😁 quien dijo miedo. ¡Sígueme!</h3>
 <table>
     <tr>
@@ -26,6 +26,7 @@
     <tr>
         <td>html</td>
         <td>Css</td>
+        <td>Sass</td>
         <td>javascript</td>
         <td>typeScript</td>
         <td>Node</td>
@@ -36,6 +37,7 @@
     <tr>
         <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></td>
         <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></td>
         <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></td>
         <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></td>
         <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></td>

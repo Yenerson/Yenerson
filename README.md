@@ -16,7 +16,7 @@
     </tr>
 </table>
 <ul>
-    <li>Mi nombre completo es <strong>Yenerson Hernandez Lopez</strong> soy de 🇨🇴 COLOMBIA. me apaciona el diseño y el desarrollo de aplicaciones, web, movil, escritorio con html, css y javascript</li>
+    <li>Mi nombre completo es <strong>Yenerson Hernandez Lopez</strong> soy de 🇨🇴 COLOMBIA. me apasiona el diseño y el desarrollo de aplicaciones, web, móvil, escritorio con html, css y javascript</li>
     <li>Creador de contenido. visita mi canal de youtube donde encontraras tutoriales y recursos para tus proyectos o aprendizaje</li>
 </ul>
 <h1>Skills</h1>

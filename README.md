@@ -1,5 +1,5 @@
 <h1>Apock gráficos</h1>
-<h5><strong>Diseñador y des arrollador front-end</strong></h5>
+<h4><strong>Diseñador y des arrollador <span style="color: #55DFCA;">front-end</span></strong></h4>
 <h3>Redes sociales. 😁 quien dijo miedo. ¡Sígueme!</h3>
 <table>
     <tr>

@@ -1,4 +1,4 @@
-<img src="img/ezgif.com-gif-maker.png">
+<img src="img/ezgif.com-gif-maker.png" width="100%">
 <h1>Apock gráficos</h1>
 <h4><strong>Diseñador y des arrollador front-end</strong></h4>
 <h3>Redes sociales. 😁 quien dijo miedo. ¡Sígueme!</h3>

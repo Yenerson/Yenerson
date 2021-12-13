@@ -8,3 +8,21 @@
         <td><a href="https://www.youtube.com/apockgraficos"><img src="icons/youtube2.svg" alt="" height="40"><br>Youtube</a></td>
     </tr>
 </table>
+<h1>Skills</h1>
+<p>Diseñador de paginas web, programacion de pagina front-end, con total conocimiento de las siguientes tecnologias</p>
+<table>
+    <tr>
+        <td>html</td>
+        <td>Css</td>
+        <td>Node</td>
+        <td>Vue</td>
+        <td>Angular</td>
+    </tr>
+    <tr>
+        <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></td>
+        <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></td>
+        <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></td>
+        <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></td>
+        <td><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></td>
+    </tr>
+</table>
